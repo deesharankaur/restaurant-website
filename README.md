@@ -3,7 +3,7 @@
 Welcome to the official repository for **Flame & Fork Bistro**—a premium, modern, and fully responsive restaurant website designed to deliver an elegant online dining experience. From a sleek multi-column menu grid to an interactive infinite-loop gallery, this landing page blends high-end aesthetics with seamless performance.
 
 **Live Demo**
-https://dk132006.github.io/restaurant-website/
+https://deesharankaur.github.io/restaurant-website/
 
 
 ##  Features
